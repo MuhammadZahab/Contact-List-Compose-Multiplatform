@@ -7,9 +7,9 @@ import androidx.compose.material3.dynamicDarkColorScheme
 import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
-import org.devescort.contactlist.ui.Typography
-import org.devescort.contactlist.ui.darkScheme
-import org.devescort.contactlist.ui.lightScheme
+import org.devescort.contactlist.ui.theme.Typography
+import org.devescort.contactlist.ui.theme.darkScheme
+import org.devescort.contactlist.ui.theme.lightScheme
 
 
     @Composable

@@ -1,4 +1,4 @@
-package org.devescort.contactlist.ui
+package org.devescort.contactlist.ui.theme
 import androidx.compose.ui.graphics.Color
 
 val primaryLight = Color(0xFF3C6090)

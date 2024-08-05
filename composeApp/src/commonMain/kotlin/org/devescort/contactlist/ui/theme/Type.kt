@@ -1,4 +1,4 @@
-package org.devescort.contactlist.ui
+package org.devescort.contactlist.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
